@@ -1,0 +1,39 @@
+<!ELEMENT rechnungen (rechnung*) >
+<!ELEMENT rechnung (rechnungsnummer, steuernummer, ausstellungsdatum, brutto,netto, mwstr, leistungsunternehmen,leistungs-empfaenger, abrechnungs-positionen, zahlungsmethode )>
+<!ELEMENT leistungsunternehmen (firma*, strasse*, hausnummer*, plz*, ort*, telefon*,fax*, mail?)>
+<!ELEMENT abrechnungs-positionen (abrechnung+)>
+<!ELEMENT abrechnung (abrechungs-position,  einheit, leistung, einzel-preis, gesamt-preis, mehrwertsteuer-prozent, datum)>
+<!ELEMENT einzel-preis (betrag, waehrung)>
+<!ELEMENT gesamt-preis (betrag, waehrung)>
+<!ELEMENT rechnungsnummer (#PCDATA)>
+<!ELEMENT steuernummer (#PCDATA)>
+<!ELEMENT ausstellungsdatum (#PCDATA)>
+<!ELEMENT betrag (#PCDATA)>
+<!ELEMENT firma (#PCDATA)>
+<!ELEMENT strasse (#PCDATA)>
+<!ELEMENT hausnummer (#PCDATA)>
+<!ELEMENT plz (#PCDATA)>
+<!ELEMENT ort (#PCDATA)>
+<!ELEMENT telefon (#PCDATA)>
+<!ELEMENT fax (#PCDATA)>
+<!ELEMENT mail (#PCDATA)>
+<!ELEMENT abrechungs-position (#PCDATA)>
+<!ELEMENT einheit (#PCDATA)>
+<!ELEMENT leistung (#PCDATA)>
+<!ELEMENT waehrung (#PCDATA)>
+<!ELEMENT mehrwertsteuer-prozent (#PCDATA)>
+<!ELEMENT datum (#PCDATA)>
+<!ATTLIST einheit menge CDATA #REQUIRED>
+<!ELEMENT leistungs-empfaenger (titel?, name+, vorname?, strasse?, hausnummer?, plz*, ort* )>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT vorname (#PCDATA)>
+<!ELEMENT titel (#PCDATA)>
+<!ELEMENT IBAN (#PCDATA)>
+<!ELEMENT BIC (#PCDATA)>
+<!ELEMENT Bitcoin-Adresse (#PCDATA)>
+<!ELEMENT zahlungsmethode (BIC?, IBAN?, Kontonr?, Bitcoin-Adresse?)>
+<!ELEMENT netto (#PCDATA)>
+<!ELEMENT mwstr (#PCDATA)>
+<!ELEMENT brutto (#PCDATA)>
+
+<!ELEMENT Kontonr (#PCDATA)>

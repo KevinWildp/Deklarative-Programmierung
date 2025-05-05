@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rechnungen>
+    <rechnung>
+        <rechnungsnummer>657321</rechnungsnummer>
+        <steuernummer> 88123/8282</steuernummer>
+        <ausstellungssdatum>2017-01-15</ausstellungssdatum>
+        <betrag> 962.22</betrag>
+        <leistungsempfaenger>
+            <firma>Kleintier-Meier-GmbH</firma>
+            <strasse> Meierring</strasse>
+            <hausnummer>3</hausnummer>
+            <plz> 81828</plz>
+            <ort> Machthausen</ort>
+            <telefon>0777/987987</telefon>
+            <fax> 0777/987789 </fax>
+            <mail> klein.meier@tiere.de</mail>
+            
+        </leistungsempfaenger>
+    </rechnung>
+
+</rechnungen>

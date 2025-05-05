@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rechnungen>
+    
+    <rechnung>
+        <rechnungsnummer>657321</rechnungsnummer>
+        <steuernummer> 88123/8282</steuernummer>
+        <ausstellungsdatum>2017-01-15</ausstellungsdatum>
+        <brutto> 962.22</brutto>
+        <netto>808.59</netto>
+        <mwstr>153.59</mwstr>
+        <leistungsunternehmen>
+            <firma>Kleintier-Meier-GmbH</firma>
+            <strasse> Meierring</strasse>
+            <hausnummer>3</hausnummer>
+            <plz> 81828</plz>
+            <ort> Machthausen</ort>
+            <telefon>0777/987987</telefon>
+            <fax> 0777/987789 </fax>
+            <mail> klein.meier@tiere.de</mail>
+         </leistungsunternehmen>
+         <leistungs-empfaenger>
+            <titel>Frau</titel>
+            <name>Sonder-Suttelrau</name>
+            <vorname>Sybille</vorname>
+            <strasse> Am Süttelbach</strasse>
+            <hausnummer>17</hausnummer>
+            <plz> 77070</plz>
+            <ort> Siedelsudstadt</ort>
+            
+           
+         </leistungs-empfaenger>
+
+        <abrechnungs-positionen>
+			<abrechnung>
+                <abrechungs-position>1</abrechungs-position>
+				<einheit menge="100">Stueck</einheit>
+				<leistung>Antike Holzwuermer</leistung>
+				<einzel-preis>
+					<betrag>1.50</betrag>
+					<waehrung>EUR</waehrung>
+				</einzel-preis>
+				<gesamt-preis>
+					<betrag>150.00</betrag>
+					<waehrung>EUR</waehrung>
+				</gesamt-preis>
+				<mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+				<datum>2017-01-01</datum>
+            </abrechnung>
+			<abrechnung>
+			    <abrechungs-position>2</abrechungs-position>
+				
+				<einheit menge="1" >Stueck</einheit>
+				<leistung>Holzwurmfutter</leistung>
+				<einzel-preis>
+					<betrag>34.45</betrag>
+					<waehrung>EUR</waehrung>
+				</einzel-preis>
+				<gesamt-preis>
+					<betrag>34.45</betrag>
+					<waehrung>EUR</waehrung>
+				</gesamt-preis>
+				<mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+				<datum>2017-01-12</datum>
+            </abrechnung>
+			<abrechnung>
+			    <abrechungs-position>3</abrechungs-position>
+				
+				<einheit menge ="1">Stueck</einheit>
+				<leistung>Steinlaus, Petrophaga lorioti</leistung>
+				<einzel-preis>
+					<betrag>777.77</betrag>
+					<waehrung>EUR</waehrung>
+				</einzel-preis>
+				<gesamt-preis>
+					<betrag>777.77</betrag>
+					<waehrung>EUR</waehrung>
+				</gesamt-preis>
+				<mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+				<datum>2017-01-12</datum>
+			</abrechnung>
+		</abrechnungs-positionen>
+        <zahlungsmethode>
+            <Kreditinstitut>Sparkasse Karlsruhe</Kreditinstitut>
+            <BIC>987654321</BIC>
+        </zahlungsmethode>
+        
+    </rechnung>
+    <rechnung>
+        <rechnungsnummer>98-798-7987</rechnungsnummer>
+        <steuernummer> DE333666999</steuernummer>
+        <ausstellungsdatum>2017-08-08</ausstellungsdatum>
+        <brutto> 621.94</brutto>
+        <netto>490.22</netto>
+        <mwstr>116.74</mwstr>
+        <leistungsunternehmen>
+            <firma>Rochade La-Hoff AG</firma>
+            <strasse> Soddelstrudel</strasse>
+            <hausnummer>5a</hausnummer>
+            <plz> 13023</plz>
+            <ort> Zotenheim</ort>
+            <telefon>07624/666333999</telefon>
+            <fax> 07624/666333999 </fax>
+        </leistungsunternehmen>
+        <leistungs-empfaenger>
+            <titel>Dr. med. </titel>
+            <name>Cypian</name>
+            <vorname>Zottel</vorname>
+            <strasse> Soddelstrudel </strasse>
+            <hausnummer>5a</hausnummer>
+            <plz> 13023</plz>
+            <ort> Zotenheim</ort>
+        </leistungs-empfaenger>
+        <abrechnungs-positionen>
+            <abrechnung>
+                <abrechungs-position>1</abrechungs-position>
+                 <einheit menge="3">Packungen</einheit>
+                <leistung>Grippemittel "Tumifla"</leistung>
+                <einzel-preis>
+                    <betrag>120</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>360</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+                <datum>2017-08-08</datum>
+            </abrechnung>
+            <abrechnung>
+                <abrechungs-position>2</abrechungs-position>
+                
+                <einheit menge="2">Liter</einheit>
+                <leistung>Abführmittel "Wech damit"</leistung>
+                <einzel-preis>
+                    <betrag>99.99</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>199.98</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+                <datum>2017-08-08</datum>
+            </abrechnung>
+            <abrechnung>
+                <abrechungs-position>3</abrechungs-position>
+               
+                <einheit menge ="2">Liter</einheit>
+                <leistung>Energieriegel "Satto"</leistung>
+                <einzel-preis>
+                    <betrag>5.98</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>11.96</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>7</mehrwertsteuer-prozent>
+                <datum>2017-08-08</datum>
+            </abrechnung>
+        </abrechnungs-positionen>
+        <zahlungsmethode>
+            <Kreditinstitut>Deutsche Bank Lörrach</Kreditinstitut>
+            <BIC>DEUTDE6F683</BIC> 
+            <IBAN>DE18 6837 0034 0999 6663 33 </IBAN>
+        </zahlungsmethode>
+       
+        
+
+    </rechnung>
+    
+    
+    <rechnung>
+        <rechnungsnummer>893-231-1</rechnungsnummer>
+        <steuernummer> DE987654321</steuernummer>
+        <ausstellungsdatum>2017-10-19</ausstellungsdatum>
+
+        <brutto>878.49</brutto>
+        <netto>738.23 </netto>
+        <mwstr>140.26</mwstr>
+        <leistungsunternehmen>
+            <firma>Bestattungen Unterberg</firma>
+            <strasse> Oberbergberg</strasse>
+            <hausnummer>5</hausnummer>
+            <plz> 43210</plz>
+            <ort> Ultursingen</ort>
+            <telefon>0478/777555</telefon>
+            
+        </leistungsunternehmen>
+        <leistungs-empfaenger>
+            <titel>Familie</titel>
+           <name>Urmel</name>
+           <strasse> Ulturenstrasse</strasse>
+           <hausnummer>764</hausnummer>
+           <plz> 43210</plz>
+           <ort> Ultursingen</ort>
+            
+        </leistungs-empfaenger>
+        <abrechnungs-positionen>
+            <abrechnung>
+                <abrechungs-position>1</abrechungs-position>
+                 <einheit menge="1">Stueck</einheit>
+                <leistung>Urne, Eiche massiv</leistung>
+                <einzel-preis>
+                    <betrag>299.99</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>299.99</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+                <datum>2019-10-17</datum>
+            </abrechnung>
+            <abrechnung>
+                <abrechungs-position>2</abrechungs-position>
+                
+                <einheit menge="1">Stueck</einheit>
+                <leistung>Überführung Krematorium Feuerbach inkl. Begleitperson</leistung>
+                <einzel-preis>
+                    <betrag>349.00</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>349.00</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+                <datum>2019-10-17</datum>
+            </abrechnung>
+            <abrechnung>
+                <abrechungs-position>3</abrechungs-position>
+               
+                <einheit menge ="1">Stueck</einheit>
+                <leistung>Dekoration</leistung>
+                <einzel-preis>
+                    <betrag>149.50</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>149.50</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+                <datum>2019-10-17</datum>
+            </abrechnung>
+            <abrechnung>
+                <abrechungs-position>3</abrechungs-position>
+               
+                <einheit menge ="40">Stueck</einheit>
+                <leistung>Trauerkarten inkl. Briefmarken</leistung>
+                <einzel-preis>
+                    <betrag>2.00</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>80</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+                <datum>2019-10-17</datum>
+            </abrechnung>
+
+     
+        </abrechnungs-positionen>
+        <zahlungsmethode>
+            <Kreditinstitut>USB Zürich</Kreditinstitut>
+            <BIC>UBSWCHZH80H </BIC>
+            <IBAN>DE16660501010077889911 </IBAN>
+            <Kontonr>75847683</Kontonr>
+            <Bitcoin-Adresse>1P82rBiJHGFSavKx1deoertkdBdR35t5QnGkkZ</Bitcoin-Adresse>
+
+        </zahlungsmethode>  
+       
+        
+
+    </rechnung>
+    
+  
+    <rechnung>
+        <rechnungsnummer>611-555-32</rechnungsnummer>
+        <steuernummer> DE123456789</steuernummer>
+        <ausstellungsdatum>2009-11-07</ausstellungsdatum>
+        <brutto>2359.88</brutto>
+        <netto>1983.09</netto>
+        <mwstr>376.79</mwstr>
+        <leistungsunternehmen>
+            <firma>Weinhandel von Langres</firma>
+            <strasse> Emiliangasse</strasse>
+            <hausnummer>19</hausnummer>
+            <plz> 86866</plz>
+            <ort> Mickhausen</ort>
+            
+            
+        </leistungsunternehmen>
+        <leistungs-empfaenger>
+            <titel>Seine Exzellenz der Hochwürdigste Herr Erzbischof</titel>
+            <name>Waldus</name>
+            <vorname> Mikksa</vorname>
+            <strasse> Fronhof</strasse>
+           <hausnummer>4</hausnummer>
+           <plz> 86152</plz>
+           <ort> Mickhausen</ort>
+            
+        </leistungs-empfaenger>
+        <abrechnungs-positionen>
+            <abrechnung>
+                <abrechungs-position>1</abrechungs-position>
+                 <einheit menge="1">Fass</einheit>
+                <leistung>Liebliche Gottesmilbe</leistung>
+                <einzel-preis>
+                    <betrag>2299.98</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>2299.98</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+                <datum>2019-11-07</datum>
+            </abrechnung>
+            <abrechnung>
+                <abrechungs-position>2</abrechungs-position>
+                
+                <einheit menge="100">Stueck</einheit>
+                <leistung>Standartweingläser "Schluck"</leistung>
+                <einzel-preis>
+                    <betrag>0.599</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>59.90</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+                <datum>2019-11-07</datum>
+            </abrechnung>
+     
+        </abrechnungs-positionen>
+        <zahlungsmethode> 
+            <Kreditinstitut>Pax-Bank Köln</Kreditinstitut>           
+            <Kontonr>80200601</Kontonr>
+        </zahlungsmethode>  
+       
+        
+
+    </rechnung>
+
+    <rechnung>
+        <rechnungsnummer>1</rechnungsnummer>
+        <steuernummer></steuernummer>
+        <ausstellungsdatum>2017-09-08</ausstellungsdatum>
+        <brutto>3598.99</brutto>
+       
+        
+        
+        <leistungsunternehmen>
+            <firma>Peer Weidmann</firma>
+            <strasse> Kürschnergasse </strasse>
+            <hausnummer>77</hausnummer>
+            <plz> 76131</plz>
+            <ort> Karlsgrube</ort>
+        </leistungsunternehmen>
+        <leistungs-empfaenger>
+            <titel>Herr</titel>
+             <name>Claudius</name>
+            <vorname> Artemis</vorname>
+            <strasse>Am Wolfahrtweiher</strasse>
+            <hausnummer>7</hausnummer>
+            <plz> 56741</plz>
+            <ort> Hirschhausen</ort>
+           
+            
+        </leistungs-empfaenger>
+        <abrechnungs-positionen>
+            <abrechnung>
+                <abrechungs-position>1</abrechungs-position>
+                 <einheit menge="1">Stueck</einheit>
+                <leistung>Vogelschnepper, um 1600</leistung>
+                <einzel-preis>
+                    <betrag>3499.00</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>3499.00</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+                <datum>2017-09-08</datum>
+            </abrechnung>
+            <abrechnung>
+                <abrechungs-position>2</abrechungs-position>
+                
+                <einheit menge="200">Stueck</einheit>
+                <leistung>Schusser, um 1720</leistung>
+                <einzel-preis>
+                    <betrag>0.49</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>99.99</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+                <datum>2017-09-08</datum>
+            </abrechnung>
+     
+        </abrechnungs-positionen>  
+        <zahlungsmethode>
+            <Bar>1</Bar>
+        </zahlungsmethode>   
+        
+    </rechnung>
+    <rechnung>
+        <rechnungsnummer>47-11</rechnungsnummer>
+        <steuernummer>DE112233449</steuernummer>
+        <ausstellungsdatum>2016-12-31</ausstellungsdatum>
+        <brutto>19.99</brutto>
+        <netto> 16.80</netto>
+        <mwstr>3.19</mwstr>
+        
+        
+        <leistungsunternehmen>
+            <firma>Dr. Klöpner Sanitätreinrichtung</firma>
+            <strasse> Zur Wasserkuppe </strasse>
+            <hausnummer>99</hausnummer>
+            <plz> 43354</plz>
+            <ort> Bischhofsborn</ort>
+        </leistungsunternehmen>
+        <leistungs-empfaenger>
+            <titel>Herr</titel>
+             <name>Müller-Lüdenscheid</name>
+            
+            <strasse>Badstrasse</strasse>
+            <hausnummer>3</hausnummer>
+            <plz>17777</plz>
+            <ort> Dammhausen</ort>
+           
+            
+        </leistungs-empfaenger>
+        <abrechnungs-positionen>
+            <abrechnung>
+                <abrechungs-position>1</abrechungs-position>
+                 <einheit menge="1">Stueck</einheit>
+                <leistung>Gummiente "Quietsch"</leistung>
+                <einzel-preis>
+                    <betrag>19.99</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>19.99</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+                <datum>2016-12-31</datum>
+            </abrechnung>
+     
+        </abrechnungs-positionen>  
+        <zahlungsmethode>
+            <Kreditinstitut>Adelsbank Bischhofsborn</Kreditinstitut>
+           
+            <Kontonr>80870733</Kontonr>
+            
+
+        </zahlungsmethode>  
+          
+        
+    </rechnung>
+
+
+</rechnungen>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rechnungen SYSTEM "Aufgabe2.dtd">
+
+<rechnungen>
+    <rechnung>
+        <rechnungsnummer>657321</rechnungsnummer>
+        <steuernummer> 88123/8282</steuernummer>
+        <ausstellungsdatum>2017-01-15</ausstellungsdatum>
+        <brutto> 962.22</brutto>
+        <netto>808.59</netto>
+        <mwstr>153.59</mwstr>
+        <leistungsunternehmen>
+            <firma>Kleintier-Meier-GmbH</firma>
+            <strasse> Meierring</strasse>
+            <hausnummer>3</hausnummer>
+            <plz> 81828</plz>
+            <ort> Machthausen</ort>
+            <telefon>0777/987987</telefon>
+            <fax> 0777/987789 </fax>
+            <mail> klein.meier@tiere.de</mail>
+         </leistungsunternehmen>
+         <leistungs-empfaenger>
+            
+            <name>Sybille</name>
+            <vorname>Sonder-Suttelrau</vorname>
+         </leistungs-empfaenger>
+
+        <abrechnungs-positionen>
+			<abrechnung>
+                <abrechungs-position>1</abrechungs-position>
+				<einheit menge="100">Stueck</einheit>
+				<leistung>Antike Holzwuermer</leistung>
+				<einzel-preis>
+					<betrag>1.50</betrag>
+					<waehrung>EUR</waehrung>
+				</einzel-preis>
+				<gesamt-preis>
+					<betrag>150.00</betrag>
+					<waehrung>EUR</waehrung>
+				</gesamt-preis>
+				<mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+				<datum>2017-01-01</datum>
+            </abrechnung>
+			<abrechnung>
+			    <abrechungs-position>2</abrechungs-position>
+				
+				<einheit menge="1" >Stueck</einheit>
+				<leistung>Holzwurmfutter</leistung>
+				<einzel-preis>
+					<betrag>34.45</betrag>
+					<waehrung>EUR</waehrung>
+				</einzel-preis>
+				<gesamt-preis>
+					<betrag>34.45</betrag>
+					<waehrung>EUR</waehrung>
+				</gesamt-preis>
+				<mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+				<datum>2017-01-12</datum>
+            </abrechnung>
+			<abrechnung>
+			    <abrechungs-position>3</abrechungs-position>
+				
+				<einheit menge ="1">Stueck</einheit>
+				<leistung>Steinlaus, Petrophaga lorioti</leistung>
+				<einzel-preis>
+					<betrag>777.77</betrag>
+					<waehrung>EUR</waehrung>
+				</einzel-preis>
+				<gesamt-preis>
+					<betrag>777.77</betrag>
+					<waehrung>EUR</waehrung>
+				</gesamt-preis>
+				<mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+				<datum>2017-01-12</datum>
+			</abrechnung>
+		</abrechnungs-positionen>
+        
+    </rechnung>
+    <rechnung>
+        <rechnungsnummer>98-798-7987</rechnungsnummer>
+        <steuernummer> DE333666999</steuernummer>
+        <ausstellungsdatum>2017-08-08</ausstellungsdatum>
+        <brutto> 621.94</brutto>
+        <netto>490.22</netto>
+        <mwstr>116.74</mwstr>
+        <leistungsunternehmen>
+            <firma>Rochade La-Hoff AG</firma>
+            <strasse> Soddelstrudel</strasse>
+            <hausnummer>5a</hausnummer>
+            <plz> 13023</plz>
+            <ort> Zotenheim</ort>
+            <telefon>07624/666333999</telefon>
+            <fax> 07624/666333999 </fax>
+        </leistungsunternehmen>
+        <leistungs-empfaenger>
+            <titel>Dr. med. </titel>
+            <name>Cypian</name>
+            <vorname>Zottel</vorname>
+        </leistungs-empfaenger>
+        <abrechnungs-positionen>
+            <abrechnung>
+                <abrechungs-position>1</abrechungs-position>
+                 <einheit menge="3">Packungen</einheit>
+                <leistung>Grippemittel "Tumifla"</leistung>
+                <einzel-preis>
+                    <betrag>120</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>360</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+                <datum>2017-08-08</datum>
+            </abrechnung>
+            <abrechnung>
+                <abrechungs-position>2</abrechungs-position>
+                
+                <einheit menge="2">Liter</einheit>
+                <leistung>Abführmittel "Wech damit"</leistung>
+                <einzel-preis>
+                    <betrag>99.99</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>199.98</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>19</mehrwertsteuer-prozent>
+                <datum>2017-08-08</datum>
+            </abrechnung>
+            <abrechnung>
+                <abrechungs-position>3</abrechungs-position>
+               
+                <einheit menge ="2">Liter</einheit>
+                <leistung>Energieriegel "Satto"</leistung>
+                <einzel-preis>
+                    <betrag>5.98</betrag>
+                    <waehrung>EUR</waehrung>
+                </einzel-preis>
+                <gesamt-preis>
+                    <betrag>11.96</betrag>
+                    <waehrung>EUR</waehrung>
+                </gesamt-preis>
+                <mehrwertsteuer-prozent>7</mehrwertsteuer-prozent>
+                <datum>2017-08-08</datum>
+            </abrechnung>
+        </abrechnungs-positionen>
+       
+        
+
+    </rechnung>
+
+</rechnungen>
